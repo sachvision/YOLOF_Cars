@@ -17,3 +17,8 @@ https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 - is an Object Detection toolbox and benchmark
 
 https://github.com/open-mmlab/mmdetection
+
+<p align="center">
+  <img src="https://github.com/sachvision/YOLOF_Cars/tree/main/Images/Design.JPG" width="350" title="Design">
+  <img src="https://github.com/sachvision/YOLOF_Cars/tree/main/Images/Design.JPG" width="350" alt="accessibility text">
+</p>
